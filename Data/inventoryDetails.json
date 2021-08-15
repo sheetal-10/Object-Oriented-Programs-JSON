@@ -1,0 +1,24 @@
+{
+	"inventory" : [
+	{
+	"name" : "IndiaGate",
+	"weight" : 50.25
+	"pricePerKg" : 65.45
+	"type" : "Rice"
+	},
+	
+	{
+	"name" : "Sarvagun",
+	"weight" : 25.65
+	"pricePerKg" : 15.38
+	"type" : "Pulses"
+	},
+	
+	{
+	"name" : "ChakkiFresh",
+	"weight" : 75.00
+	"pricePerKg" : 35.76
+	"type" : "Pulses"
+	}
+	]
+}	
