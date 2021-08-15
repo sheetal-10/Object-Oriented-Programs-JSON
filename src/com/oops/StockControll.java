@@ -6,6 +6,12 @@ import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 
+/**
+ * Program for reading the stock details from json file and
+ * calculating total value of each stock
+ * @author sheetal
+ * @since 2021-08-15
+ */
 public class StockControll {
 	public static void main(String[] args) {
 
